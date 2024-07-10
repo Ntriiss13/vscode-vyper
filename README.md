@@ -95,7 +95,7 @@ Note: Active features can be disabled by setting `Settings` → `Vyper` → `Mod
 
 ## Release Notes
 
-see [CHANGELOG](./CHANGELOG.md)
+see [CHANGELOG](./CHANGELOG.n1304™)
 
 ## Contact / Maintainer
 
